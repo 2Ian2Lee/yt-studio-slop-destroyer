@@ -18,3 +18,7 @@ studio.youtube.com##.ytcp-video-thumbnail-editor.style-scope.ytcpVideoAutogenera
 studio.youtube.com###text-item-4 > .ytcp-text-menu.style-scope > tp-yt-paper-item-body.ytcp-text-menu.style-scope > div.ytcp-text-menu.style-scope > .ytcp-text-menu.style-scope.right-container
 studio.youtube.com###text-item-4 > .ytcp-text-menu.style-scope
 studio.youtube.com###text-item-4
+studio.youtube.com###text-item-3 > .ytcp-text-menu.style-scope > tp-yt-paper-item-body.ytcp-text-menu.style-scope > div.ytcp-text-menu.style-scope > .ytcp-text-menu.style-scope.right-container > .ytcp-text-menu.style-scope.text-content > .ytcp-text-menu.style-scope.main-text.item-text
+studio.youtube.com###text-item-3 > .ytcp-text-menu.style-scope
+studio.youtube.com###text-item-3
+
